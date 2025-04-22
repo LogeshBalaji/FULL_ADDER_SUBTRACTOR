@@ -105,11 +105,15 @@ module ex44(df, bo, a, b, bin);
 endmodule
 ```
 **RTL Schematic**
-![Screenshot 2025-04-22 085657](https://github.com/user-attachments/assets/83d771c4-55dc-4651-86d0-72a6be8cff2e)
+
+![Screenshot 2025-04-22 085657](https://github.com/user-attachments/assets/83d771c4-55dc-4651-86d0-72a6be8cff2e)  
+
 ![Screenshot 2025-04-22 091321](https://github.com/user-attachments/assets/7b0d6e9a-c32c-4c36-a731-eb97fae5c6b0)
 
 **Output Timing Waveform**
-![Screenshot 2025-04-22 090739](https://github.com/user-attachments/assets/4df65f44-7a4c-4ce6-8379-bd9436405bd9)
+
+![Screenshot 2025-04-22 090739](https://github.com/user-attachments/assets/4df65f44-7a4c-4ce6-8379-bd9436405bd9)  
+
 ![Screenshot 2025-04-22 091800](https://github.com/user-attachments/assets/2c12e53e-30ca-4b11-9f50-fcf710aaa1f6)
 
 **Result:**
